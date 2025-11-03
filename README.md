@@ -270,7 +270,7 @@ or
 http://yourdomain.com:5000
 ```
 <br>
-Author: Ebay Kuo<br>
+Author: EBK<br>
 License: MIT<br>
 Last Updated: 2025<br>
 
